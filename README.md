@@ -14,16 +14,16 @@ Make sure you have the following installed on your system before proceeding:
 To build and run the project on your iOS device or simulator, follow the steps below:
 
 1. Clone the repository:
-``git clone <repository-url>``
+``git clone https://github.com/heinzawaung-hza/ios_developer_assessment.git``
 
 2. Navigate to the project directory:
-``cd <project-directory>``
+``cd ios_developer_assessment/``
 
 3. Install dependencies using CocoaPods:
 ``pod install``
 
 4. Open the project in Xcode:
-``open <project-name>.xcworkspace``
+``open Din\ Din.xcworkspace/``
 
 5. Select the desired target device or simulator from the Xcode toolbar.
 
