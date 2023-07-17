@@ -1,0 +1,6 @@
+module Pods_Din_DinTests {
+  umbrella header "Pods-Din DinTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
